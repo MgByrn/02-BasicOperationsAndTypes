@@ -26,7 +26,7 @@ print(answer * 1000)
 ###############################################################################
 
 ###############################################################################
-# TODO: 2. (1 pt)
+# DONE: 2. (1 pt)
 #   Immediately below this _TODO_, write code that:
 #     - Computes 77 minus the division between 13 and 2.
 #         - Do this in three ways:
@@ -47,7 +47,7 @@ print (77 - 13 / 2)
 print (77 - (13 / 2))
 print ((77 - 13)/2)
 ###############################################################################
-# TODO: 3. (1 pt)
+# DONE: 3. (1 pt)
 #   Immediately below this _TODO_, write code that:
 #     - Computes 5 to the 2nd power (HINT: use  **  as the operator)
 #     - Stores the result to a name of your choosing

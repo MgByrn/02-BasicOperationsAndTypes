@@ -1,7 +1,7 @@
 import math
 
 ###############################################################################
-# TODO: 1. (2 pts)
+# DONE: 1. (2 pts)
 #   Notice the line of code above.
 #   
 #   We can actually get the help from other modules (libraries) to do certain 
